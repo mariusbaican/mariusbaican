@@ -6,7 +6,7 @@ I'm a full-stack engineer with a strong appreciation for front-end development. 
 scalable, reliable systems — but what I truly love is crafting clean, intuitive interfaces with
 subtle, thoughtful details woven into the design.
 
-> "Great UI is invisible"
+> "Great UI is invisible."
 
 ### **Currently working on:**
 
