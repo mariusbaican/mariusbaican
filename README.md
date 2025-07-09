@@ -3,7 +3,7 @@
 ### Student • Software Engineer • F1 Enthusiast
 
 I'm a full-stack engineer with a strong appreciation for front-end development. I enjoy building
-scalable, reliable systems — but what I truly love is crafting clean, intuitive interfaces with
+scalable, reliable systems, but what I truly love is crafting clean, intuitive interfaces with
 subtle, thoughtful details woven into the design.
 
 > "Great UI is invisible."
@@ -15,7 +15,7 @@ presentation website for the FTC robotics team I mentor.
 <a href="https://brickbot.vercel.app" target="_blank"><b>SimplicityFTC</b></a>: An open-source
 programming library designed to simplify programming for teams, while providing them with some
 powerful tools to work with.  
-<a href="mariusbaican.com" target="_blank"><b>Porfolio Website</b></a>: Currently in the
+<a href="https://mariusbaican.com" target="_blank"><b>Porfolio Website</b></a>: Currently in the
 design stage of my personal portfolio website.
 
 ### Connect with me:
