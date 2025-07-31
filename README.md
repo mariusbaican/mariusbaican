@@ -15,8 +15,8 @@ presentation website for the FTC robotics team I mentor.
 <a href="https://brickbot.vercel.app" target="_blank"><b>SimplicityFTC</b></a>: An open-source
 programming library designed to simplify programming for teams, while providing them with some
 powerful tools to work with.  
-<a href="https://mariusbaican.com" target="_blank"><b>Porfolio Website</b></a>: Currently in the
-design stage of my personal portfolio website.
+<a href="https://brickdash.vercel.app" target="_blank"><b>BrickBot Dashboard</b></a>: A dashboard
+used to manage the content on the BrickBot team website.
 
 ### Connect with me:
 
