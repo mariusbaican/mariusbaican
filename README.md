@@ -10,8 +10,8 @@ subtle, thoughtful details woven into the design.
 
 ### **Currently working on:**
 
-<a href="https://brickbot.vercel.app" target="_blank"><b>BrickBot Team Website</b></a>: A
-presentation website for the FTC robotics team I mentor.  
+<a href="https://brickbot.ro" target="_blank"><b>BrickBot Team Website</b></a>: A
+presentation website for the FTC robotics team I mentor.
 <a href="https://brickbot.vercel.app" target="_blank"><b>SimplicityFTC</b></a>: An open-source
 programming library designed to simplify programming for teams, while providing them with some
 powerful tools to work with.  
