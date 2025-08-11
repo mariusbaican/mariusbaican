@@ -11,11 +11,11 @@ subtle, thoughtful details woven into the design.
 ### **Currently working on:**
 
 <a href="https://brickbot.ro" target="_blank"><b>BrickBot Team Website</b></a>: A
-presentation website for the FTC robotics team I mentor.
-<a href="https://brickbot.vercel.app" target="_blank"><b>SimplicityFTC</b></a>: An open-source
+presentation website for the FTC robotics team I mentor.  
+<a href="https://github.com/SimplicityFTC" target="_blank"><b>SimplicityFTC</b></a>: An open-source
 programming library designed to simplify programming for teams, while providing them with some
 powerful tools to work with.  
-<a href="https://brickdash.vercel.app" target="_blank"><b>BrickBot Dashboard</b></a>: A dashboard
+<a href="https://dash.brickbot.ro" target="_blank"><b>BrickBot Dashboard</b></a>: A dashboard
 used to manage the content on the BrickBot team website.
 
 ### Connect with me:
