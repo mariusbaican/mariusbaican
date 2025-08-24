@@ -2,7 +2,7 @@
 
 ### Student • Software Engineer • F1 Enthusiast
 
-I'm a full-stack engineer with a strong appreciation for front-end development. I enjoy building
+I'm a software engineer with a strong appreciation for front-end development. I enjoy building
 scalable, reliable systems, but what I truly love is crafting clean, intuitive interfaces with
 subtle, thoughtful details woven into the design.
 
