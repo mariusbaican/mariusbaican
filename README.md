@@ -6,8 +6,6 @@ I'm a software engineer with a strong appreciation for front-end development. I 
 scalable, reliable systems, but what I truly love is crafting clean, intuitive interfaces with
 subtle, thoughtful details woven into the design.
 
-> "Great UI is invisible."
-
 ### **Currently working on:**
 
 <a href="https://brickbot.ro" target="_blank"><b>BrickBot Team Website</b></a>: A
