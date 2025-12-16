@@ -8,7 +8,7 @@ subtle, thoughtful details woven into the design.
 
 ### **Currently working on:**
 
-<a href="https://brickbot.ro" target="_blank"><b>BrickBot Team Website</b></a>: Redesigning and optimising the website I made for the FTC robotics team that I mentor.
+<a href="https://brickbot.ro" target="_blank"><b>BrickBot Team Website</b></a>: Redesigning and optimising the website I made for the FTC robotics team that I mentor.<br>
 <b>BrickBot Website Dashboard</b>: Designing the backend for the dashboard that manages the content across BrickBot's web presence.
 
 ### Connect with me:
