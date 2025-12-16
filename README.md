@@ -8,13 +8,8 @@ subtle, thoughtful details woven into the design.
 
 ### **Currently working on:**
 
-<a href="https://brickbot.ro" target="_blank"><b>BrickBot Team Website</b></a>: A
-presentation website for the FTC robotics team I mentor.  
-<a href="https://github.com/SimplicityFTC" target="_blank"><b>SimplicityFTC</b></a>: An open-source
-programming library designed to simplify programming for teams, while providing them with some
-powerful tools to work with.  
-<a href="https://mariusbaican.com" target="_blank"><b>Portfolio Website</b></a>: Currently designing
-and developing my personal portfolio website.
+<a href="https://brickbot.ro" target="_blank"><b>BrickBot Team Website</b></a>: Redesigning and optimising the website I made for the FTC robotics team that I mentor.
+<b>BrickBot Website Dashboard</b>: Designing the backend for the dashboard that manages the content across BrickBot's web presence.
 
 ### Connect with me:
 
